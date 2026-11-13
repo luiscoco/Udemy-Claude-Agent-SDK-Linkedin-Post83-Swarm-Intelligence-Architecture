@@ -1,0 +1,16 @@
+{
+  "lesson": 82,
+  "title": "Swarm Intelligence Architecture",
+  "application": "Pheromone Route Explorers",
+  "purpose": "Run bounded seeded route explorers, share successful route weights and measure the best discovered path.",
+  "exercise": "Compare one and four explorers with the same seed. Change evaporation and examine exploration versus concentration.",
+  "source_topics": [
+    "00-Inteligencia de enjambreિકેટ.png",
+    "01-What-Is-Swarm-Intelligence.png",
+    "02-Building-Blocks-of-a-Swarm.png",
+    "03-The-Swarm-Workflow.png",
+    "04-Run-Explorer-Agents-in-Parallel.png",
+    "05-Worked-Example-Route-Search.png",
+    "06-Trade-Offs-Pitfalls-and-Uses.png"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "lesson": 82,
+  "application": "Pheromone Route Explorers",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "best_path": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "attempts": 12,
+    "reinforced_cells": 13,
+    "explanation": "Explorers reinforce successful route cells while weights evaporate; this bounded run supplies a candidate, not an optimality proof."
+  },
+  "measured_cost_usd": null
+}
